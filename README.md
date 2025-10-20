@@ -1,10 +1,16 @@
-# 🟠 blakusnaku analytics
+![blakusnaku analytics banner](./github_banner.png)
+
+---
+
+## 🟠 blakusnaku analytics
+
 > Turning data into clarity — one day at a time.  
 > _"Our luck is built from the bricks we lay."_
 
 ---
 
 ## 🧭 About Me
+
 Hi, I’m **JP Malit**, an aspiring **Data Analyst** currently building my path through a structured **#100DaysOfData** journey.  
 I design systems that measure growth — from tracking my own learning analytics to building dashboards that visualize real-world business data.  
 
@@ -14,6 +20,7 @@ I created **blakusnaku analytics** as both a personal brand and a workspace wher
 ---
 
 ## 📊 Featured Projects
+
 | Project | Description | Tools |
 |:--|:--|:--|
 | 🧠 [**Study Dashboard v1.3 – Portfolio Edition**](https://docs.google.com/spreadsheets/d/1TLP4skR9L8p8keZBImYdIXdy1Gyl0mBcUqyHPyfwIXE/edit?usp=sharing) | Live analytics tracker visualizing study hours, phase progress, and tool utilization. | Excel • Google Sheets • Power BI |
@@ -22,6 +29,7 @@ I created **blakusnaku analytics** as both a personal brand and a workspace wher
 ---
 
 ## ⚙️ Technical Stack
+
 **Core:** SQL | Python (pandas) | Power BI | Excel  
 **Supporting:** DAX | Data Modeling | ETL | Dashboard Design  
 **Tools:** VS Code | SQLite | Google Sheets | GitHub | Canva  
@@ -29,6 +37,7 @@ I created **blakusnaku analytics** as both a personal brand and a workspace wher
 ---
 
 ## 🧩 Study System
+
 I structure each day into **4 Study Blocks**:  
 | Block | Focus | Tool |
 |:--|:--|:--|
