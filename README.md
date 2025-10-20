@@ -12,7 +12,7 @@
 ## 🧭 About Me
 
 Hi, I’m **JP Malit**, an aspiring **Data Analyst** currently building my path through a structured **#100DaysOfData** journey.  
-I design systems that measure growth — from tracking my own learning analytics to building dashboards that visualize real-world business data.  
+I design systems that measure growth. From tracking my own learning analytics to building dashboards that visualize real-world business data.  
 
 I created **blakusnaku analytics** as both a personal brand and a workspace where I integrate  
 **SQL → Python (pandas) → Power BI → Excel** into full-stack data pipelines.  
