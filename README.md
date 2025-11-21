@@ -69,7 +69,7 @@ Interactive visualization lab exploring relationship graphs, automated popup gen
 End-to-end BI project analyzing sales, profit trends, and discount effects.
 
 ![Superstore Dashboard](https://github.com/blakusnaku/blakusnaku-superstore-sales-analytics/blob/main/assets/superstore_dashboard_v1.png)
-🔗 [view here]https://github.com/blakusnaku/blakusnaku-superstore-sales-analytics
+🔗 [view here](https://github.com/blakusnaku/blakusnaku-superstore-sales-analytics)
 
 ---
 
