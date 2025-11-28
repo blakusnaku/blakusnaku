@@ -41,8 +41,8 @@ Portfolio-grade tracker for learning KPIs, hours, skill progression, and project
 ![Badges](https://img.shields.io/badge/Automation-Python-orange) ![Badges](https://img.shields.io/badge/Tool-Power%20BI-yellow) ![Badges](https://img.shields.io/badge/ETL-Config%20Driven-green)  
 Automated multi-city ETL pipeline with schema validation, cleaning, transformation, and KPI modeling.
 
-![Short Term Rental Dashboard](https://github.com/blakusnaku/blakusnaku-100-days-of-data/blob/main/us_short_term_rental_data_pipeline/assets/us_short_term_rental_dashboard_screenshot.PNG)
-🔗 [view_here](https://github.com/blakusnaku/blakusnaku-100-days-of-data/tree/main/us_short_term_rental_data_pipeline)
+![Short Term Rental Dashboard](https://github.com/blakusnaku/us-str-pipeline/blob/main/dashboard/STR_Dashboard_Thumbnail.png)
+🔗 [view_here](https://github.com/blakusnaku/us-str-pipeline)
 
 ---
 
